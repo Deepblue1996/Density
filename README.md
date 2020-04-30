@@ -1,5 +1,7 @@
 # Density
 
+## 此版本存在小量BUG, 需要完美版本，建议使用本人DpWorkAX框架，经过商业实测敲打。
+
 Android强制转换式屏幕适配方案
 转载于https://juejin.im/post/5b3094fc6fb9a00e52398ae4
 
